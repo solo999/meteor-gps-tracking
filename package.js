@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  gps-tracking: "0.2.5", 
+  "gps-tracking": "0.2.0", 
 });
 
 Package.onUse(function (api) {
